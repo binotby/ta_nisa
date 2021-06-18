@@ -7,9 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link href="../vendor/bootstrap-5/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/bootstrap-5/css/bootstrap.min.css" rel="stylesheet">
     <!-- DataTables CSS -->
-    <link rel="stylesheet" type="text/css" href="../vendor/DataTables/datatables.min.css" />
+    <link rel="stylesheet" type="text/css" href="/vendor/DataTables/datatables.min.css" />
 
 
     <title>Hazard Reporting</title>
